@@ -1,7 +1,7 @@
 {
-  "name": "string-replace-loader",
-  "version": "2.3.0",
-  "description": "Replace loader for Webpack",
+  "name": "fork-string-replace-loader",
+  "version": "1.0.0",
+  "description": "Fork of Replace loader for Webpack",
   "keywords": [
     "webpack",
     "loader",
@@ -24,7 +24,7 @@
     "webpack": "^4.34.0"
   },
   "peerDependencies": {
-    "webpack": "1 || 2 || 3 || 4"
+    "webpack": "*"
   },
   "repository": {
     "type": "git",
